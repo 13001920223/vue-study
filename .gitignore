@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+y
+y.pub
 
 # local env files
 .env.local
